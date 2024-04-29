@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Elton Lopes Pereira",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Desenvolvedor Web Java / JavaScript",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Olá , me chamo Elton, tenho 30 anos, estou cursando tecnologia em sistemas de telecomunicações na UTFPR, Sou Programador FrontEnd, HTML / CSS / JAVA / JacaScript / React.",
+    "contactmessage":"Você pode entrar em contato por Whatsapp ou pelo linkedin.",
     "email": "elton_ste@live.com",
-    "phone": "555-555-5555",
-    "github":"",
+    "phone": "(41) 9 9551-4110",
+    "github":"https://github.com/Elton-Ti",
     "project":"",
     "address":{
       "street":"Rua Affonso Muhlmann, 425",
@@ -15,59 +15,52 @@
       "state":"Paraná",
       "zip": "833256-520"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
     "social":[
       {
         "name":"facebook",
-        "url":"",
+        "url":"https://www.facebook.com/elton.lopespereira",
         "className":"fa fa-facebook"
       },      
       {
         "name":"linkedin",
-        "url":"",
+        "url":"https://www.linkedin.com/in/elton-lopes-pereira-27465b179/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"",
+        "url":"https://www.instagram.com/oeelton/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"",
+        "url":"https://github.com/Elton-Ti",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Desenvolvedor versátil com experiência em Java, com conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML e CSS. Calmo, organizado e comprometido com o aprimoramento constante. Adoro a area de análise e desenvolvimento de novas funcionalidades, e tenho experiência em testes usando a ferramenta Cypress e versionamento com Git. Busco oportunidades desafiadoras para contribuir e impulsionar minha carreira.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Universidade Tecnologica Federal do Paraná",
-        "graduated":"junho 2023",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidade Tecnologica Federal do Paraná",
+        "degree":"Tecnologia em Sistemas de Telecomunicações",
+        "graduated":"junho 2024",
+        "description":"O curso prepara profissionais para atuar nas áreas de gestão, desenvolvimento, implantação de projetos, operação e manutenção de sistemas de telecomunicações, e como um diferencial muito bacana são as materias de programação, que habilita o estudante a ingressar nessa área."
       },
       {
         "school":"Colégio Estadual Professor Paulo Freire",
         "degree":"Ensino Médio",
         "graduated":"Dezembro 2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"O seu principal objetivo é aprimorar os conhecimentos obtidos pelos estudantes no ensino fundamental I e II, além de prepará-los para o mercado de trabalho, seja para ingressar imediatamente em uma profissão."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Copel Distribuição",
+        "title":"Estágio em Analise de Sistemas ",
+        "years":"Jul 2022 - Present",
+        "description":"Responsável pelas demandas da Agência virtual da Copel, Auxílio na manutenção de aplicações Web, Apoio na documentação de sistemas de informação, Auxílio na análise e desenvolvimento de novas soluções, Linguagens: Java, Javascript; Banco de dados: SQL Servere Ferramentas: Teams, GitHub, Cypress."
       }
     ],
     "skills":[
@@ -81,7 +74,7 @@
       },
       {
         "name":"JavaScript",
-        "level":"40%"
+        "level":"50%"
       },
       {
         "name":"HTML",
@@ -99,7 +92,7 @@
         "title":"Calculadora-React",
         "category":"My Travel Blog for my post-university travels",
         "image":"01.jpg",
-        "url":""
+        "url":"https://calculadora-react-elton.vercel.app/"
       }
     ]
   }

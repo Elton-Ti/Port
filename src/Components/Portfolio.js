@@ -1,20 +1,38 @@
 import React, { Component } from "react";
+import Modal from "react-modal";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
 
-let id = 0;
 class Portfolio extends Component {
-  render() {
-    if (!this.props.data) return null;
+  constructor(props) {
+    super(props);
+    this.state = {
+      modalIsOpen: false,
+      modalImage: ""
+    };
+  }
 
-    const projects = this.props.data.projects.map(function (projects) {
-      let projectImage = "images/portfolio/" + projects.image;
+  openModal = (imageSrc) => {
+    this.setState({ modalIsOpen: true, modalImage: imageSrc });
+  };
+
+  closeModal = () => {
+    this.setState({ modalIsOpen: false });
+  };
+
+  render() {
+    const { data } = this.props;
+
+    if (!data || !data.projects) return null;
+
+    const projects = data.projects.map((project, index) => {
+      const projectImage = `images/portfolio/${project.image}`;
 
       return (
-        <div key={id++} className="columns portfolio-item">
-          <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+        <div key={index} className="columns portfolio-item">
+          <div className="item-wrap" onClick={() => this.openModal(projectImage)}>
+            <Zmage alt={project.title} src={projectImage} />
+            <div style={{ textAlign: "center" }}>{project.title}</div>
           </div>
         </div>
       );
@@ -25,14 +43,20 @@ class Portfolio extends Component {
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Check Out Some of My Works.</h1>
+              <h1>Aqui você pode ver alguns de meus Projetos.</h1>
 
-              <div
-                id="portfolio-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
-              >
+              <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
               </div>
+
+              <Modal
+                isOpen={this.state.modalIsOpen}
+                onRequestClose={this.closeModal}
+                contentLabel="Imagem do Projeto"
+              >
+                <Zmage alt="Imagem do Projeto" src={this.state.modalImage} />
+                <button onClick={this.closeModal}>Fechar</button>
+              </Modal>
             </div>
           </div>
         </Fade>
