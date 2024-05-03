@@ -13,8 +13,7 @@ class About extends Component {
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
-    const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
+    const email = this.props.data.email;    
 
     return (
       <section id="about">

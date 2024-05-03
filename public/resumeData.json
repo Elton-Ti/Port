@@ -1,98 +1,98 @@
 {
   "main": {
-    "name":"Elton Lopes Pereira",
-    "description":"Desenvolvedor Web Java / JavaScript",
-    "image":"profilepic.jpg",
-    "bio":"Olá , me chamo Elton, tenho 30 anos, estou cursando tecnologia em sistemas de telecomunicações na UTFPR, Sou Programador FrontEnd, HTML / CSS / JAVA / JacaScript / React.",
-    "contactmessage":"Você pode entrar em contato por Whatsapp ou pelo linkedin.",
+    "name": "Elton Lopes Pereira",
+    "description": "Desenvolvedor Web Java / JavaScript",
+    "image": "profilepic.jpg",
+    "bio": "Olá, meu nome é Elton. Tenho 30 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Sou Programador Frontend, com habilidades em HTML, CSS, Java, JavaScript e React.",
+    "contactmessage": "Você pode entrar em contato por WhatsApp ou pelo LinkedIn.",
     "email": "elton_ste@live.com",
     "phone": "(41) 9 9551-4110",
-    "github":"https://github.com/Elton-Ti",
-    "project":"",
-    "address":{
-      "street":"Rua Affonso Muhlmann, 425",
-      "city":"Pinhais",
-      "state":"Paraná",
+    "github": "https://github.com/Elton-Ti",
+    "project": "https://drive.google.com/file/d/1WlbI4jQSWJ2LkBGUp1C1MHaCNaxxE6HA/view?usp=drive_link",
+    "address": {
+      "street": "Rua Affonso Muhlmann, 425",
+      "city": "Pinhais",
+      "state": "Paraná",
       "zip": "833256-520"
     },
     "website": "",
-    "social":[
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/elton.lopespereira",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/elton.lopespereira",
+        "className": "fa fa-facebook"
       },      
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/elton-lopes-pereira-27465b179/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/elton-lopes-pereira-27465b179/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/oeelton/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/oeelton/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/Elton-Ti",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/Elton-Ti",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Desenvolvedor versátil com experiência em Java, com conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML e CSS. Calmo, organizado e comprometido com o aprimoramento constante. Adoro a area de análise e desenvolvimento de novas funcionalidades, e tenho experiência em testes usando a ferramenta Cypress e versionamento com Git. Busco oportunidades desafiadoras para contribuir e impulsionar minha carreira.",
-    "education":[
+  "resume": {
+    "skillmessage": "Desenvolvedor versátil com experiência em Java, conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML e CSS. Calmo, organizado e comprometido com o aprimoramento constante. Adoro a área de análise e desenvolvimento de novas funcionalidades e tenho experiência em testes usando a ferramenta Cypress e versionamento com Git. Busco oportunidades desafiadoras para contribuir e impulsionar minha carreira.",
+    "education": [
       {
-        "school":"Universidade Tecnologica Federal do Paraná",
-        "degree":"Tecnologia em Sistemas de Telecomunicações",
-        "graduated":"junho 2024",
-        "description":"O curso prepara profissionais para atuar nas áreas de gestão, desenvolvimento, implantação de projetos, operação e manutenção de sistemas de telecomunicações, e como um diferencial muito bacana são as materias de programação, que habilita o estudante a ingressar nessa área."
+        "school": "Universidade Tecnológica Federal do Paraná",
+        "degree": "Tecnologia em Sistemas de Telecomunicações",
+        "graduated": "Junho de 2024",
+        "description": "O curso prepara profissionais para atuar nas áreas de gestão, desenvolvimento, implantação de projetos, operação e manutenção de sistemas de telecomunicações. Um diferencial é a inclusão de matérias de programação, que habilita o estudante a ingressar nessa área."
       },
       {
-        "school":"Colégio Estadual Professor Paulo Freire",
-        "degree":"Ensino Médio",
-        "graduated":"Dezembro 2011",
-        "description":"O seu principal objetivo é aprimorar os conhecimentos obtidos pelos estudantes no ensino fundamental I e II, além de prepará-los para o mercado de trabalho, seja para ingressar imediatamente em uma profissão."
+        "school": "Colégio Estadual Professor Paulo Freire",
+        "degree": "Ensino Médio",
+        "graduated": "Dezembro de 2011",
+        "description": "Seu principal objetivo é aprimorar os conhecimentos obtidos pelos estudantes no ensino fundamental I e II, além de prepará-los para o mercado de trabalho, seja para ingressar imediatamente em uma profissão."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Copel Distribuição",
-        "title":"Estágio em Analise de Sistemas ",
-        "years":"Jul 2022 - Present",
-        "description":"Responsável pelas demandas da Agência virtual da Copel, Auxílio na manutenção de aplicações Web, Apoio na documentação de sistemas de informação, Auxílio na análise e desenvolvimento de novas soluções, Linguagens: Java, Javascript; Banco de dados: SQL Servere Ferramentas: Teams, GitHub, Cypress."
+        "company": "Copel Distribuição",
+        "title": "Estágio em Análise de Sistemas",
+        "years": "Jul 2022 - Presente",
+        "description": "Responsável pelas demandas da Agência virtual da Copel. Auxílio na manutenção de aplicações Web, apoio na documentação de sistemas de informação, auxílio na análise e desenvolvimento de novas soluções. Linguagens: Java, JavaScript; Banco de dados: SQL Server; Ferramentas: Teams, GitHub, Cypress."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"React",
-        "level":"30%"
+        "name": "React",
+        "level": "30%"
       },
       {
-        "name":"JAVA",
-        "level":"50%"
+        "name": "JAVA",
+        "level": "50%"
       },
       {
-        "name":"JavaScript",
-        "level":"50%"
+        "name": "JavaScript",
+        "level": "50%"
       },
       {
-        "name":"HTML",
-        "level":"50%"
+        "name": "HTML",
+        "level": "50%"
       },
       {
-        "name":"Css",
-        "level":"50%"
+        "name": "CSS",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Calculadora-React",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://calculadora-react-elton.vercel.app/"
+        "title": "Calculadora-React",
+        "category": "Projetos",
+        "image": "01.jpg",
+        "url": "https://calculadora-react-elton.vercel.app/"
       }
     ]
   }
