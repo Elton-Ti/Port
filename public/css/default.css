@@ -830,14 +830,15 @@ properly.
  
 .custom-modal {
   // outros estilos
-  padding: 20px; /* Adiciona um espaço em branco ao redor do conteúdo modal */
+  padding: 20px; 
 }
 
 .modal-close {
   position: absolute;
+  color: red;
   top: 10px;
   right: 10px;
   cursor: pointer;
-  z-index: 9999; /* Ajusta a ordem de empilhamento para garantir que o ícone de fechar fique na frente */
+  z-index: 9999;
 }
 
