@@ -2,18 +2,20 @@ import React, { Component } from "react";
 import Modal from "react-modal";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
+import { FaTimes } from "react-icons/fa";
 
 class Portfolio extends Component {
   constructor(props) {
     super(props);
     this.state = {
       modalIsOpen: false,
-      modalImage: ""
+      modalImage: "",
+      modalUrl: ""
     };
   }
 
-  openModal = (imageSrc) => {
-    this.setState({ modalIsOpen: true, modalImage: imageSrc });
+  openModal = (imageSrc, projectUrl) => {
+    this.setState({ modalIsOpen: true, modalImage: imageSrc, modalUrl: projectUrl });
   };
 
   closeModal = () => {
@@ -30,7 +32,7 @@ class Portfolio extends Component {
 
       return (
         <div key={index} className="columns portfolio-item">
-          <div className="item-wrap" onClick={() => this.openModal(projectImage)}>
+          <div className="item-wrap" onClick={() => this.openModal(projectImage, project.url)}>
             <Zmage alt={project.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{project.title}</div>
           </div>
@@ -53,9 +55,14 @@ class Portfolio extends Component {
                 isOpen={this.state.modalIsOpen}
                 onRequestClose={this.closeModal}
                 contentLabel="Imagem do Projeto"
+                className="custom-modal"
+                overlayClassName="custom-overlay"
               >
-                <Zmage alt="Imagem do Projeto" src={this.state.modalImage} />
-                <button onClick={this.closeModal}>Fechar</button>
+                <div className="modal-close" onClick={this.closeModal}><FaTimes /></div>
+                <div className="modal-content">
+                  <Zmage alt="Imagem do Projeto" src={this.state.modalImage} />
+                </div>
+                <a href={this.state.modalUrl} target="_blank" rel="noopener noreferrer">Saiba mais ...</a>
               </Modal>
             </div>
           </div>
