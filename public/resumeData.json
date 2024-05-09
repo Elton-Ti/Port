@@ -91,8 +91,14 @@
       {
         "title": "Calculadora-React",
         "category": "Projetos",
-        "image": "01.jpg",
+        "image": "calculadora.jpg",
         "url": "https://calculadora-react-elton.vercel.app/"
+      },
+      {
+        "title": "HTML 5",
+        "category": "Projetos",
+        "image": "html.jpg",
+        "url": "https://html5-curso-em-video.vercel.app/"
       }
     ]
   }
