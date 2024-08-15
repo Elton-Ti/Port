@@ -61,6 +61,18 @@
         "title": "Estágio em Análise de Sistemas",
         "years": "Jul 2022 - Jun 2024",
         "description": "Responsável pelas demandas da Agência virtual da Copel. Auxílio na manutenção de aplicações Web, apoio na documentação de sistemas de informação, auxílio na análise e desenvolvimento de novas soluções. Linguagens: Java, JavaScript; Banco de dados: SQL Server; Ferramentas: Teams, GitHub, Cypress."
+      },
+      {
+        "company": "Arrojito Comercio de alimentos",
+        "title": "Conferente",
+        "years": "Fev 2019 - Jul 2022",
+        "description": "Conferencia de Carga e descarga, controle de estoque, conferencia de saida de mercadorias."
+      },
+      {
+        "company": "C&C Ar condicionado",
+        "title": "Auxiliar Administrativo",
+        "years": "Nov 2016 - Jan 2018",
+        "description": "Emissão de notas fiscais, contas a pagar, contas a receber, documentação de terceiros, lançamento em sistemas financeiros"
       }
     ],
     "skills": [
@@ -99,6 +111,17 @@
         "category": "Projetos",
         "image": "html.jpg",
         "url": "https://html5-curso-em-video.vercel.app/"
+      },
+      {
+        "title": "Projeto 3",
+        "category": "Projetos",
+        "image": "html.jpg",
+        "url": ""
+      },{
+        "title": "Projeto 4",
+        "category": "Projetos",
+        "image": "",
+        "url": ""
       }
     ]
   }
