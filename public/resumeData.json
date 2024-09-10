@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Elton Lopes Pereira",
-    "description": "Desenvolvedor Web Java / JavaScript",
+    "description": "Desenvolvedor Java / JavaScript",
     "image": "profilepic.jpg",
     "bio": "Olá, meu nome é Elton. Tenho 30 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Sou Programador Frontend, com habilidades em HTML, CSS, Java, JavaScript e React.",
     "contactmessage": "Você pode entrar em contato por WhatsApp ou pelo LinkedIn.",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Desenvolvedor versátil com experiência em Java, conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML e CSS. Calmo, organizado e comprometido com o aprimoramento constante. Adoro a área de análise e desenvolvimento de novas funcionalidades e tenho experiência em testes usando a ferramenta Cypress e versionamento com Git. Busco oportunidades desafiadoras para contribuir e impulsionar minha carreira.",
+    "skillmessage": "Desenvolvedor de software versátil, com sólida experiência em Java e profundo conhecimento em Arquitetura MVC e Programação Orientada a Objetos. Possuo habilidades em HTML, CSS e sou familiarizado com o versionamento de projetos usando Git. Tenho experiência na realização de testes de front-end utilizando a ferramenta Cypress. Sou uma pessoa organizada, com boa comunicação e foco em soluções criativas. Comprometido com o aprendizado contínuo, me destaco no desenvolvimento de novas funcionalidades e na manutenção de aplicações web. Busco novas oportunidades desafiadoras para aplicar meus conhecimentos e impulsionar minha carreira na área de tecnologia.",
     "education": [
       {
         "school": "Universidade Tecnológica Federal do Paraná",
