@@ -8,7 +8,7 @@
     "email": "elton_ste@live.com",
     "phone": "(41) 9 9551-4110",
     "github": "https://github.com/Elton-Ti",
-    "project": "https://drive.google.com/file/d/1WlbI4jQSWJ2LkBGUp1C1MHaCNaxxE6HA/view?usp=drive_link",
+    "project": "https://drive.google.com/file/d/1cuaFzCTdB-85RY7MznMvI8y6fg8BBTdZ/view?usp=drive_link",
     "address": {
       "street": "Rua Affonso Muhlmann, 425",
       "city": "Pinhais",
@@ -113,10 +113,10 @@
         "url": "https://html5-curso-em-video.vercel.app/"
       },
       {
-        "title": "Projeto 3",
+        "title": "Tarefa de Microcontrolado",
         "category": "Projetos",
-        "image": "html.jpg",
-        "url": ""
+        "image": "arduino.jpg",
+        "url": "https://youtu.be/AAnGGeOL5sM"
       },{
         "title": "Projeto 4",
         "category": "Projetos",
