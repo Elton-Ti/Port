@@ -38,10 +38,8 @@ class Contact extends Component {
               <div className="widget widget_contact">
                 <h4>Endereço e Telefone</h4>
                 <p className="address">
-                  {name}
-                  <br />
-                  {street} <br />
-                  {city}, {state} {zip}
+                  {name}                                  
+                  {city}, {state}
                   <br />
                   <span>{phone}</span>
                 </p>
