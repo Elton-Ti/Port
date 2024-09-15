@@ -1,19 +1,17 @@
 {
   "main": {
     "name": "Elton Lopes Pereira",
-    "description": "Desenvolvedor Java / JavaScript",
+    "description": "Desenvolvedor Fullstack",
     "image": "profilepic.jpg",
-    "bio": "Olá, meu nome é Elton. Tenho 30 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Sou Programador Frontend, com habilidades em HTML, CSS, Java, JavaScript e React.",
+    "bio": "Olá, sou Elton, tenho 30 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Atuo como Programador Fullstack, com sólida experiência em HTML, CSS, Java, JavaScript e React, além de habilidades no desenvolvimento de back-end. Busco constantemente aprimorar minhas competências e acompanhar as tendências do desenvolvimento web para entregar soluções completas e eficazes.",
     "contactmessage": "Você pode entrar em contato por WhatsApp ou pelo LinkedIn.",
     "email": "elton_ste@live.com",
     "phone": "(41) 9 9551-4110",
     "github": "https://github.com/Elton-Ti",
     "project": "https://drive.google.com/file/d/1cuaFzCTdB-85RY7MznMvI8y6fg8BBTdZ/view?usp=drive_link",
-    "address": {
-      "street": "Rua Affonso Muhlmann, 425",
+    "address": {      
       "city": "Pinhais",
-      "state": "Paraná",
-      "zip": "833256-520"
+      "state": "Paraná"
     },
     "website": "",
     "social": [
@@ -40,7 +38,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Desenvolvedor de software versátil, com sólida experiência em Java e profundo conhecimento em Arquitetura MVC e Programação Orientada a Objetos. Possuo habilidades em HTML, CSS e sou familiarizado com o versionamento de projetos usando Git. Tenho experiência na realização de testes de front-end utilizando a ferramenta Cypress. Sou uma pessoa organizada, com boa comunicação e foco em soluções criativas. Comprometido com o aprendizado contínuo, me destaco no desenvolvimento de novas funcionalidades e na manutenção de aplicações web. Busco novas oportunidades desafiadoras para aplicar meus conhecimentos e impulsionar minha carreira na área de tecnologia.",
+    "skillmessage": "Desenvolvedor de software versátil, com sólida experiência em Java, Arquitetura MVC e Programação Orientada a Objetos. Tenho habilidades em HTML, CSS e versionamento de projetos com Git, além de experiência em testes de front-end utilizando Cypress. Sou organizado, com boas habilidades de comunicação e focado em soluções criativas. Comprometido com o aprendizado contínuo, destaco-me no desenvolvimento de novas funcionalidades e na manutenção de aplicações web. Busco oportunidades desafiadoras que me permitam aplicar meu conhecimento e crescer na área de tecnologia.",
     "education": [
       {
         "school": "Universidade Tecnológica Federal do Paraná",
@@ -60,19 +58,7 @@
         "company": "Copel Distribuição S.A.",
         "title": "Estágio em Análise de Sistemas",
         "years": "Jul 2022 - Jun 2024",
-        "description": "Responsável pelas demandas da Agência virtual da Copel. Auxílio na manutenção de aplicações Web, apoio na documentação de sistemas de informação, auxílio na análise e desenvolvimento de novas soluções. Linguagens: Java, JavaScript; Banco de dados: SQL Server; Ferramentas: Teams, GitHub, Cypress."
-      },
-      {
-        "company": "Arrojito Comercio de alimentos",
-        "title": "Conferente",
-        "years": "Fev 2019 - Jul 2022",
-        "description": "Conferencia de Carga e descarga, controle de estoque, conferencia de saida de mercadorias."
-      },
-      {
-        "company": "C&C Ar condicionado",
-        "title": "Auxiliar Administrativo",
-        "years": "Nov 2016 - Jan 2018",
-        "description": "Emissão de notas fiscais, contas a pagar, contas a receber, documentação de terceiros, lançamento em sistemas financeiros"
+        "description":  "Atuo como responsável pelas demandas da Agência Virtual da Copel, envolvendo tanto a manutenção de aplicações web quanto a implementação de novas funcionalidades. Realizo suporte técnico contínuo, garantindo a estabilidade e eficiência dos sistemas em produção. Além disso, colaboro na documentação de sistemas de informação, auxiliando na padronização e clareza dos processos técnicos, e participo ativamente da análise e desenvolvimento de soluções inovadoras para aprimorar a experiência do usuário e otimizar o desempenho das aplicações.\n Minhas principais competências incluem o uso de linguagens de programação como Java e JavaScript para o desenvolvimento de soluções robustas. No gerenciamento de dados, trabalho com SQL Server, garantindo consultas otimizadas e integrações eficazes. Também utilizo ferramentas colaborativas como Teams para comunicação e gerenciamento de projetos, GitHub para controle de versão e Cypress para automação de testes e garantia de qualidade do front-end. \n Com foco em soluções escaláveis e uma abordagem colaborativa, contribuo para a melhoria contínua dos sistemas da Copel, sempre buscando inovações tecnológicas que agreguem valor às operações e à experiência do usuário final."
       }
     ],
     "skills": [
@@ -117,11 +103,6 @@
         "category": "Projetos",
         "image": "arduino.jpg",
         "url": "https://youtu.be/AAnGGeOL5sM"
-      },{
-        "title": "Projeto 4",
-        "category": "Projetos",
-        "image": "",
-        "url": ""
       }
     ]
   }

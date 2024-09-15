@@ -68,7 +68,7 @@ class Header extends Component {
             <Fade bottom duration={2000}>
               <ul className="social">
                 <a href={project}  target="_blank" className="button btn project-btn">
-                  <i className="fa fa-book"></i>Cúrriculo
+                  <i className="fa fa-book"></i>Download CV
                 </a>
                 <a href={github} target="_blank" className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
