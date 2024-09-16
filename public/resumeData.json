@@ -103,6 +103,12 @@
         "category": "Projetos",
         "image": "arduino.jpg",
         "url": "https://youtu.be/AAnGGeOL5sM"
+      },
+      {
+        "title": "Fundamentos React",
+        "category": "Projetos",
+        "image": "react.jpg",
+        "url": "https://hooks-wine.vercel.app/"
       }
     ]
   }
