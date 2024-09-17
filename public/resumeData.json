@@ -64,7 +64,8 @@
     "skills": [
       {
         "name": "React",
-        "level": "30%"
+        "level": "30%",
+        "className":"fa fa-facebook"
       },
       {
         "name": "JAVA",
