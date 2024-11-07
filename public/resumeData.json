@@ -8,7 +8,7 @@
     "email": "elton_ste@live.com",
     "phone": "(41) 9 9551-4110",
     "github": "https://github.com/Elton-Ti",
-    "project": "https://drive.google.com/file/d/1cuaFzCTdB-85RY7MznMvI8y6fg8BBTdZ/view?usp=drive_link",
+    "project": "https://drive.google.com/file/d/195O1-Hr86ilPzOWKdR46QnHvLX8jzRwY/view?usp=drive_link",
     "address": {      
       "city": "Pinhais",
       "state": "Paraná"
@@ -55,10 +55,16 @@
     ],
     "work": [
       {
+        "company": "Eco Medical Center",
+        "title": "Tecnico em TI (Estágio)",
+        "years": "Out 2022 - Atual",
+        "description":  "Atuo como Suporte Técnico Nível 1, cabeamento estruturado e configuração de redes, instalação e suporte à telefonia, montagem e manutenção de computadores, além de instalação de softwares e manutenção de impressoras para garantir o funcionamento contínuo dos sistemas. Realizo diagnósticos e reparos em equipamentos, bem como treinamento dos usuários para uso adequado de tecnologias e sistemas, promovendo autonomia e eficiência no dia a dia. Meu foco é oferecer suporte ágil e eficaz, assegurando a estabilidade e a qualidade dos serviços de TI, sempre com atendimento orientado à resolução de problemas e satisfação do cliente."
+      },
+      {
         "company": "Copel Distribuição S.A.",
-        "title": "Estágio em Análise de Sistemas",
+        "title": "Análise de Sistemas (Estágio)",
         "years": "Jul 2022 - Jun 2024",
-        "description":  "Atuo como responsável pelas demandas da Agência Virtual da Copel, envolvendo tanto a manutenção de aplicações web quanto a implementação de novas funcionalidades. Realizo suporte técnico contínuo, garantindo a estabilidade e eficiência dos sistemas em produção. Além disso, colaboro na documentação de sistemas de informação, auxiliando na padronização e clareza dos processos técnicos, e participo ativamente da análise e desenvolvimento de soluções inovadoras para aprimorar a experiência do usuário e otimizar o desempenho das aplicações.\nMinhas principais competências incluem o uso de linguagens de programação como Java e JavaScript para o desenvolvimento de soluções robustas. No gerenciamento de dados, trabalho com SQL Server, garantindo consultas otimizadas e integrações eficazes. Também utilizo ferramentas colaborativas como Teams para comunicação e gerenciamento de projetos, GitHub para controle de versão e Cypress para automação de testes e garantia de qualidade do front-end.\n\n Com foco em soluções escaláveis e uma abordagem colaborativa, contribuo para a melhoria contínua dos sistemas da Copel, sempre buscando inovações tecnológicas que agreguem valor às operações e à experiência do usuário final."
+        "description":  "Atuava como responsável pelas demandas da Agência Virtual da Copel, envolvendo tanto a manutenção de aplicações web quanto a implementação de novas funcionalidades. Realizo suporte técnico contínuo, garantindo a estabilidade e eficiência dos sistemas em produção. Além disso, colaboro na documentação de sistemas de informação, auxiliando na padronização e clareza dos processos técnicos, e participo ativamente da análise e desenvolvimento de soluções inovadoras para aprimorar a experiência do usuário e otimizar o desempenho das aplicações.\nMinhas principais competências incluem o uso de linguagens de programação como Java e JavaScript para o desenvolvimento de soluções robustas. No gerenciamento de dados, trabalho com SQL Server, garantindo consultas otimizadas e integrações eficazes. Também utilizo ferramentas colaborativas como Teams para comunicação e gerenciamento de projetos, GitHub para controle de versão e Cypress para automação de testes e garantia de qualidade do front-end.\n\n Com foco em soluções escaláveis e uma abordagem colaborativa, contribuo para a melhoria contínua dos sistemas da Copel, sempre buscando inovações tecnológicas que agreguem valor às operações e à experiência do usuário final."
       }
     ],
     "skills": [
