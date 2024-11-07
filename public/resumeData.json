@@ -38,7 +38,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Desenvolvedor de software versátil, com sólida experiência em Java, Arquitetura MVC e Programação Orientada a Objetos. Tenho habilidades em HTML, CSS e versionamento de projetos com Git, além de experiência em testes de front-end utilizando Cypress. Sou organizado, com boas habilidades de comunicação e focado em soluções criativas. Comprometido com o aprendizado contínuo, destaco-me no desenvolvimento de novas funcionalidades e na manutenção de aplicações web. Busco oportunidades desafiadoras que me permitam aplicar meu conhecimento e crescer na área de tecnologia.",
+    "skillmessage": "Desenvolvedor de software com experiência em Java, com conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML, CSS , Versionamento de projetos com GIT e teste de FrontEnd usando a ferramenta Cypress",
     "education": [
       {
         "school": "Universidade Tecnológica Federal do Paraná",
@@ -57,7 +57,7 @@
       {
         "company": "Eco Medical Center",
         "title": "Tecnico em TI (Estágio)",
-        "years": "Out 2022 - Atual",
+        "years": "Out 2024 - Atual",
         "description":  "Atuo como Suporte Técnico Nível 1, cabeamento estruturado e configuração de redes, instalação e suporte à telefonia, montagem e manutenção de computadores, além de instalação de softwares e manutenção de impressoras para garantir o funcionamento contínuo dos sistemas. Realizo diagnósticos e reparos em equipamentos, bem como treinamento dos usuários para uso adequado de tecnologias e sistemas, promovendo autonomia e eficiência no dia a dia. Meu foco é oferecer suporte ágil e eficaz, assegurando a estabilidade e a qualidade dos serviços de TI, sempre com atendimento orientado à resolução de problemas e satisfação do cliente."
       },
       {
@@ -93,7 +93,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Calculadora-React",
+        "title": "Calculadora",
         "category": "Projetos",
         "image": "calculadora.jpg",
         "url": "https://calculadora-react-elton.vercel.app/"
