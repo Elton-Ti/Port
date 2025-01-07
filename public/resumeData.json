@@ -55,9 +55,15 @@
     ],
     "work": [
       {
+        "company": "Hospital Inc",
+        "title": "Auxiliar I TI",
+        "years": "Dez 2024 - Atual",
+        "description":  "Responsável por acionar e acompanhar suporte técnico com terceiros, elaborar manuais técnicos, prestar suporte técnico presencial, remoto e por telefone, além de gerenciar chamados de suporte, garantindo o cumprimento da Política de Segurança da Informação. Atuei na resolução de problemas e atendimento a demandas de TI, realizando também manutenção preventiva e corretiva de computadores e impressoras, sempre com foco na eficiência, organização e continuidade das operações tecnológicas."
+      },
+      {
         "company": "Eco Medical Center",
         "title": "Tecnico em TI (Estágio)",
-        "years": "Out 2024 - Atual",
+        "years": "Out 2024 - Dez 2024",
         "description":  "Atuo como Suporte Técnico Nível 1, cabeamento estruturado e configuração de redes, instalação e suporte à telefonia, montagem e manutenção de computadores, além de instalação de softwares e manutenção de impressoras para garantir o funcionamento contínuo dos sistemas. Realizo diagnósticos e reparos em equipamentos, bem como treinamento dos usuários para uso adequado de tecnologias e sistemas, promovendo autonomia e eficiência no dia a dia. Meu foco é oferecer suporte ágil e eficaz, assegurando a estabilidade e a qualidade dos serviços de TI, sempre com atendimento orientado à resolução de problemas e satisfação do cliente."
       },
       {
