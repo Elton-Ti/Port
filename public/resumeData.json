@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Elton Lopes Pereira",
-    "description": "Desenvolvedor Fullstack",
+    "description": "Desenvolvedor Front-End",
     "image": "profilepic.jpg",
-    "bio": "Olá, sou Elton, tenho 30 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Atuo como Programador Fullstack, com sólida experiência em HTML, CSS, Java, JavaScript e React, além de habilidades no desenvolvimento de back-end. Busco constantemente aprimorar minhas competências e acompanhar as tendências do desenvolvimento web para entregar soluções completas e eficazes.",
+    "bio": "Olá, sou Elton, tenho 31 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Atuo como Programador Fullstack, com sólida experiência em HTML, CSS, Java, JavaScript e React, além de habilidades no desenvolvimento de back-end. Busco constantemente aprimorar minhas competências e acompanhar as tendências do desenvolvimento web para entregar soluções completas e eficazes.",
     "contactmessage": "Você pode entrar em contato por WhatsApp ou pelo LinkedIn.",
     "email": "elton_ste@live.com",
     "phone": "(41) 9 9551-4110",
@@ -56,7 +56,7 @@
     "work": [
       {
         "company": "Hospital Inc",
-        "title": "Auxiliar I TI",
+        "title": "Auxiliar-I TI",
         "years": "Dez 2024 - Atual",
         "description":  "Responsável por acionar e acompanhar suporte técnico com terceiros, elaborar manuais técnicos, prestar suporte técnico presencial, remoto e por telefone, além de gerenciar chamados de suporte, garantindo o cumprimento da Política de Segurança da Informação. Atuei na resolução de problemas e atendimento a demandas de TI, realizando também manutenção preventiva e corretiva de computadores e impressoras, sempre com foco na eficiência, organização e continuidade das operações tecnológicas."
       },
