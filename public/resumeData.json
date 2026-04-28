@@ -38,7 +38,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Desenvolvedor de software com experiência em Java, com conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML, CSS , Versionamento de projetos com GIT e teste de FrontEnd usando a ferramenta Cypress",
+    "skillmessage": "Desenvolvedor de software Jr, com conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML, CSS , Versionamento de projetos com GIT e teste de FrontEnd usando a ferramenta Cypress",
     "education": [
       {
         "school": "Universidade Tecnológica Federal do Paraná",
@@ -54,10 +54,16 @@
       }
     ],
     "work": [
+       {
+        "company": "Grupo Barigui",
+        "title": "Assistente de TI",
+        "years": "Mai 2025 - Atual",
+        "description":  "Atuo com suporte técnico, prestando atendimento a sistemas como Salesforce, Fluig e plataformas voltadas para vendas de automóveis e faturamento. Também possuo experiência em diagnósticos automotivos utilizando ferramentas como Davie4 e GTS+. Atuo no gerenciamento de acessos (Active Directory e Google Admin), configuração de VPN, liberação de permissões e instalação de softwares. Realizo atendimento a usuários, resolução de incidentes e acompanhamento de chamados, sempre priorizando um suporte ágil, eficiente e de alta qualidade."
+      },
       {
         "company": "Hospital Inc",
         "title": "Auxiliar-I TI",
-        "years": "Dez 2024 - Atual",
+        "years": "Dez 2024 - Abr 2025",
         "description":  "Responsável por acionar e acompanhar suporte técnico com terceiros, elaborar manuais técnicos, prestar suporte técnico presencial, remoto e por telefone, além de gerenciar chamados de suporte, garantindo o cumprimento da Política de Segurança da Informação. Atuei na resolução de problemas e atendimento a demandas de TI, realizando também manutenção preventiva e corretiva de computadores e impressoras, sempre com foco na eficiência, organização e continuidade das operações tecnológicas."
       },
       {
@@ -76,23 +82,23 @@
     "skills": [
       {
         "name": "JAVA",
-        "level": "50%"
+        "className": "fab fa-java"
       },
       {
         "name": "React",
-        "level": "30%"
+        "className": "fab fa-react"
       },
       {
         "name": "JavaScript",
-        "level": "50%"
+        "className": "fab fa-js-square"
       },
       {
         "name": "HTML",
-        "level": "50%"
+        "className": "fab fa-html5"
       },
       {
         "name": "CSS",
-        "level": "50%"
+        "className": "fab fa-css3-alt"
       }
     ]
   },
