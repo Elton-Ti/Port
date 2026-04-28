@@ -2,7 +2,6 @@
   "engines": {
     "node": "24.x"
   },
-
   "name": "reactniceresume",
   "version": "0.1.0",
   "private": true,
