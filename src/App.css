@@ -1,0 +1,29 @@
+.portfolio-item .item-wrap {
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  background-color: #fff;
+  padding-bottom: 5px;
+  margin-bottom: 30px;
+}
+
+.portfolio-item .item-wrap:hover {
+  transform: scale(1.05);
+  border-color: #11abb0;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.portfolio-item .item-wrap img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-bottom: 1px solid #eee;
+}
+
+.portfolio-item .item-wrap div {
+  padding: 15px 10px 5px;
+  font-weight: bold;
+  color: #333;
+}
