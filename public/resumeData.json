@@ -81,23 +81,18 @@
     ],
     "skills": [
       {
-        "name": "JAVA",
         "className": "fab fa-java"
       },
       {
-        "name": "React",
         "className": "fab fa-react"
       },
       {
-        "name": "JavaScript",
         "className": "fab fa-js-square"
       },
       {
-        "name": "HTML",
         "className": "fab fa-html5"
       },
       {
-        "name": "CSS",
         "className": "fab fa-css3-alt"
       }
     ]
