@@ -18,22 +18,22 @@
       {
         "name": "facebook",
         "url": "https://www.facebook.com/elton.lopespereira",
-        "className": "fa fa-facebook"
+        "className": "fab fa-facebook"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/elton-lopes-pereira-27465b179/",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin"
       },
       {
         "name": "instagram",
         "url": "https://www.instagram.com/oeelton/",
-        "className": "fa fa-instagram"
+        "className": "fab fa-instagram"
       },
       {
         "name": "github",
         "url": "https://github.com/Elton-Ti",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
       }
     ]
   },
