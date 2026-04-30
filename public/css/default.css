@@ -481,10 +481,10 @@ input[type="button"] {
 	-ms-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 
-   -moz-border-radius: 0px;
-   -webkit-border-radius: 0px;
-   -khtml-border-radius: 0px;
-   border-radius: 0px;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -khtml-border-radius: 5px;
+   border-radius: 5px;
 }
 
 .button:hover,
@@ -813,6 +813,7 @@ properly.
    max-width: 80%;
    max-height: 80%;
    overflow: auto;
+   border-radius: 8px; /* Adicionado border-radius suave */
  }
  
  .custom-overlay {
