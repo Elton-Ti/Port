@@ -112,6 +112,12 @@
         "url": "https://calculadora-react-elton.vercel.app/"
       },
       {
+        "title": "Dashboard",
+        "category": "Projetos",
+        "image": "dash.jpg",
+        "url": "https://produtos-dashboard.vercel.app/"
+      },
+      {
         "title": "HTML 5",
         "category": "Projetos",
         "image": "html.jpg",
