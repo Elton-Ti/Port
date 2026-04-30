@@ -100,10 +100,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Catalagoa de Veiculos",
+        "title": "Catálogo Premium",
         "category": "Projetos",
         "image": "catalogo.png",
-        "url": "https://catalogo-de-veiculos-elton.vercel.app/"
+        "url": "https://catalogo-produtos-eta.vercel.app/"
       },
       {
         "title": "Calculadora",
