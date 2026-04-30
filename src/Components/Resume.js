@@ -41,11 +41,11 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
+    const skills = this.props.data.skills.map((skills, index) => {
       return (
-        <li key={skills.name} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', margin: '15px 30px' }}>
+        <li key={skills.className || index} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', margin: '15px 30px' }}>
           <i className={skills.className} style={{ fontSize: '5rem', marginBottom: '10px' }}></i>
-          <em>{skills.name}</em>
+          {skills.name && <em>{skills.name}</em>}
         </li>
       );
     });

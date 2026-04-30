@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Modal from "react-modal";
-import Zmage from "react-zmage";
+
 import Fade from "react-reveal";
 import { FaTimes } from "react-icons/fa";
 
@@ -33,7 +33,7 @@ class Portfolio extends Component {
       return (
         <div key={index} className="columns portfolio-item">
           <div className="item-wrap" onClick={() => this.openModal(projectImage, project.url)}>
-            <Zmage alt={project.title} src={projectImage} />
+            <img alt={project.title} src={projectImage} />
             <div style={{ textAlign: "center", }}>
               {project.title}
             </div>
@@ -62,7 +62,7 @@ class Portfolio extends Component {
               >
                 <div className="modal-close" onClick={this.closeModal}><FaTimes /></div>
                 <div className="modal-content">
-                  <Zmage alt="Imagem do Projeto" src={this.state.modalImage} />
+                  <img alt="Imagem do Projeto" src={this.state.modalImage} style={{ maxWidth: "100%", maxHeight: "60vh", display: "block", margin: "0 auto" }} />
                 </div>
                 <a href={this.state.modalUrl} target="_blank" rel="noopener noreferrer">Saiba mais ...</a>
               </Modal>
