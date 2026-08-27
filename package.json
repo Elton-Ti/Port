@@ -49,5 +49,27 @@
   },
   "devDependencies": {
     "chokidar": "^3.5.1"
+  },
+  "overrides": {
+    "ajv": "^8.20.0",
+    "ajv-keywords": "^5.1.0",
+    "eslint": {
+      "ajv": "^6.12.6"
+    },
+    "@eslint/eslintrc": {
+      "ajv": "^6.12.6"
+    },
+    "fork-ts-checker-webpack-plugin": {
+      "ajv": "^6.12.6",
+      "ajv-keywords": "^3.5.2"
+    },
+    "babel-loader": {
+      "ajv": "^6.12.6",
+      "ajv-keywords": "^3.5.2"
+    },
+    "file-loader": {
+      "ajv": "^6.12.6",
+      "ajv-keywords": "^3.5.2"
+    }
   }
 }

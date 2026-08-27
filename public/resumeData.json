@@ -1,126 +1,261 @@
 {
   "main": {
     "name": "Elton Lopes Pereira",
-    "description": "Desenvolvedor Front-End",
+    "role": "Desenvolvedor de Software Júnior",
+    "roleDescription": "Java • Spring Boot • React • SQL • Cypress",
     "image": "profilepic.jpg",
-    "bio": "Olá, sou Elton, tenho 31 anos e estou cursando Tecnologia em Sistemas de Telecomunicações na UTFPR. Atuo como tecnico de TI, mas a curto prazo quero voltar para a area de programação, tenho sólida experiência em HTML, CSS, Java, JavaScript e React, além de habilidades no desenvolvimento de back-end. Busco constantemente aprimorar minhas competências e acompanhar as tendências do desenvolvimento web para entregar soluções completas e eficazes.",
-    "contactmessage": "Você pode entrar em contato por WhatsApp ou pelo LinkedIn.",
+    "status": "Disponível para oportunidades",
+    "bio": "Olá! Sou formado em Tecnologia em Sistemas de Telecomunicações pela UTFPR e atuo na área de Tecnologia da Informação. Tenho sólida base em desenvolvimento de software com foco no ecossistema Java (Spring Boot, MVC, POO) e Front-end moderno (JavaScript, React, HTML5, CSS3), além de experiência prática em bancos de dados relacionais e testes automatizados com Cypress.",
+    "subBio": "Comprometido com aprendizado contínuo, boas práticas de código limpo e desenvolvimento de soluções eficientes, escaláveis e focadas na melhor experiência do usuário.",
+    "contactmessage": "Fique à vontade para entrar em contato diretamente via WhatsApp, E-mail ou LinkedIn para conversarmos sobre oportunidades e projetos.",
     "email": "elton_ste@live.com",
-    "phone": "(41) 9 9551-4110",
+    "phone": "(41) 99551-4110",
+    "phoneRaw": "5541995514110",
+    "whatsappMessage": "Olá Elton! Vi seu portfólio e gostaria de conversar com você.",
     "github": "https://github.com/Elton-Ti",
-    "project": "https://drive.google.com/file/d/12vWodRZnmS7SQ9ewTP7hWJgXTCYm1bHV/view?usp=drive_link",
-    "address": {      
+    "linkedin": "https://www.linkedin.com/in/elton-lopes-pereira-27465b179/",
+    "project": "https://drive.google.com/file/d/1bSbOhaJj8luOeoYQc7cpFBQ19tRkJq73/view?usp=sharing",
+    "address": {
       "city": "Pinhais",
-      "state": "Paraná"
+      "state": "Paraná",
+      "region": "Região Metropolitana de Curitiba - PR"
     },
-    "website": "",
+    "highlights": [
+      {
+        "title": "Formação UTFPR",
+        "description": "Graduado em Tecnologia em Sistemas de Telecomunicações"
+      },
+      {
+        "title": "Back-end & Front-end",
+        "description": "Java, Spring Boot, React, JavaScript e SQL"
+      },
+      {
+        "title": "Qualidade & Testes",
+        "description": "Testes de Front-end automatizados com Cypress"
+      },
+      {
+        "title": "Experiência Prática",
+        "description": "Atuação em projetos reais na Copel, Grupo Barigui e mais"
+      }
+    ],
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/elton.lopespereira",
-        "className": "fa fa-facebook"
-      },      
-      {
-        "name": "linkedin",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/elton-lopes-pereira-27465b179/",
-        "className": "fa fa-linkedin"
+        "icon": "fab fa-linkedin",
+        "color": "#0a66c2"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/oeelton/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
+        "name": "GitHub",
         "url": "https://github.com/Elton-Ti",
-        "className": "fa fa-github"
+        "icon": "fab fa-github",
+        "color": "#ffffff"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/5541995514110?text=Ol%C3%A1%20Elton,%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20conversar!",
+        "icon": "fab fa-whatsapp",
+        "color": "#25d366"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/oeelton/",
+        "icon": "fab fa-instagram",
+        "color": "#e1306c"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/elton.lopespereira",
+        "icon": "fab fa-facebook",
+        "color": "#1877f2"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Desenvolvedor de software com experiência em Java, com conhecimento em estrutura MVC e Orientação a Objetos. Habilidades em HTML, CSS , Versionamento de projetos com GIT e teste de FrontEnd usando a ferramenta Cypress",
+    "skillCategories": [
+      {
+        "category": "Back-end & Linguagens",
+        "icon": "fas fa-server",
+        "skills": [
+          { "name": "Java", "icon": "fab fa-java" },
+          { "name": "Spring Boot", "icon": "fas fa-leaf" },
+          { "name": "JSF", "icon": "fas fa-code" },
+          { "name": "Programação Orientada a Objetos (POO)", "icon": "fas fa-cubes" },
+          { "name": "Arquitetura MVC", "icon": "fas fa-layer-group" }
+        ]
+      },
+      {
+        "category": "Front-end & Web",
+        "icon": "fas fa-laptop-code",
+        "skills": [
+          { "name": "React.js", "icon": "fab fa-react" },
+          { "name": "JavaScript (ES6+)", "icon": "fab fa-js-square" },
+          { "name": "HTML5", "icon": "fab fa-html5" },
+          { "name": "CSS3 / Responsividade", "icon": "fab fa-css3-alt" },
+          { "name": "jQuery", "icon": "fas fa-code" }
+        ]
+      },
+      {
+        "category": "Bancos de Dados & Ferramentas",
+        "icon": "fas fa-database",
+        "skills": [
+          { "name": "SQL Server / Relacionais", "icon": "fas fa-database" },
+          { "name": "Bancos Não-Relacionais", "icon": "fas fa-server" },
+          { "name": "Git & GitHub", "icon": "fab fa-git-alt" },
+          { "name": "Cypress (Testes E2E)", "icon": "fas fa-vial" }
+        ]
+      },
+      {
+        "category": "Infraestrutura & Suporte",
+        "icon": "fas fa-tools",
+        "skills": [
+          { "name": "Active Directory & Google Admin", "icon": "fas fa-users-cog" },
+          { "name": "Redes & Cabeamento Estruturado", "icon": "fas fa-network-wired" },
+          { "name": "Salesforce & Fluig", "icon": "fas fa-cloud" },
+          { "name": "Suporte Técnico N1/N2 & Resolução Ágil", "icon": "fas fa-headset" }
+        ]
+      }
+    ],
     "education": [
       {
-        "school": "Universidade Tecnológica Federal do Paraná",
+        "school": "Universidade Tecnológica Federal do Paraná (UTFPR)",
         "degree": "Tecnologia em Sistemas de Telecomunicações",
         "graduated": "Dezembro de 2024",
-        "description": "O curso prepara profissionais para atuar nas áreas de gestão, desenvolvimento, implantação de projetos, operação e manutenção de sistemas de telecomunicações. Um diferencial é a inclusão de matérias de programação, que habilita o estudante a ingressar nessa área."
+        "badge": "Graduação",
+        "description": "Formação com forte base em engenharia de telecomunicações, redes, sistemas digitais e disciplinas aprofundadas de programação de computadores e algoritmos, capacitando para atuar no desenvolvimento e integração de sistemas complexos."
       },
       {
         "school": "Colégio Estadual Professor Paulo Freire",
-        "degree": "Ensino Médio",
+        "degree": "Ensino Médio Completo",
         "graduated": "Dezembro de 2011",
-        "description": "Seu principal objetivo é aprimorar os conhecimentos obtidos pelos estudantes no ensino fundamental I e II, além de prepará-los para o mercado de trabalho, seja para ingressar imediatamente em uma profissão."
+        "badge": "Formação",
+        "description": "Formação básica completa com preparação analítica e lógica para o ingresso no ensino superior e no mercado profissional."
       }
     ],
     "work": [
       {
+        "company": "Grupo Barigui",
+        "title": "Assistente de TI",
+        "years": "Mai 2025 - Atual",
+        "isCurrent": true,
+        "location": "Curitiba / Região",
+        "summary": "Suporte técnico a sistemas corporativos, plataformas de vendas/faturamento e gestão de infraestrutura de usuários.",
+        "highlights": [
+          "Atendimento e suporte técnico a sistemas como Salesforce, Fluig e plataformas voltadas para vendas de automóveis e faturamento.",
+          "Diagnósticos automotivos especializados utilizando ferramentas de alta precisão como Davie4 e GTS+.",
+          "Gerenciamento de acessos no Active Directory e Google Admin, configuração segura de VPN e instalação de softwares corporativos.",
+          "Acompanhamento de chamados e resolução de incidentes priorizando agilidade, segurança da informação e alta qualidade."
+        ],
+        "techs": ["Salesforce", "Fluig", "Active Directory", "Google Admin", "VPN", "Suporte N2"]
+      },
+      {
         "company": "Hospital Inc",
         "title": "Auxiliar-I TI",
-        "years": "Dez 2024 - Atual",
-        "description":  "Responsável por acionar e acompanhar suporte técnico com terceiros, elaborar manuais técnicos, prestar suporte técnico presencial, remoto e por telefone, além de gerenciar chamados de suporte, garantindo o cumprimento da Política de Segurança da Informação. Atuei na resolução de problemas e atendimento a demandas de TI, realizando também manutenção preventiva e corretiva de computadores e impressoras, sempre com foco na eficiência, organização e continuidade das operações tecnológicas."
+        "years": "Dez 2024 - Abr 2025",
+        "isCurrent": false,
+        "location": "Curitiba, PR",
+        "summary": "Suporte técnico hospitalar, gestão de chamados com foco na conformidade com Políticas de Segurança da Informação.",
+        "highlights": [
+          "Suporte técnico presencial, remoto e telefônico a usuários, atuando na resolução ágil de problemas operacionais.",
+          "Elaboração de manuais e documentações técnicas para padronização de procedimentos.",
+          "Gestão de chamados e garantia de cumprimento estrito das Políticas de Segurança da Informação.",
+          "Manutenção preventiva e corretiva de computadores, periféricos e impressoras, assegurando continuidade dos serviços de saúde."
+        ],
+        "techs": ["Segurança da Informação", "Helpdesk", "Manuais Técnicos", "Hardware & Redes"]
       },
       {
         "company": "Eco Medical Center",
-        "title": "Tecnico em TI (Estágio)",
+        "title": "Técnico em TI (Estágio)",
         "years": "Out 2024 - Dez 2024",
-        "description":  "Atuo como Suporte Técnico Nível 1, cabeamento estruturado e configuração de redes, instalação e suporte à telefonia, montagem e manutenção de computadores, além de instalação de softwares e manutenção de impressoras para garantir o funcionamento contínuo dos sistemas. Realizo diagnósticos e reparos em equipamentos, bem como treinamento dos usuários para uso adequado de tecnologias e sistemas, promovendo autonomia e eficiência no dia a dia. Meu foco é oferecer suporte ágil e eficaz, assegurando a estabilidade e a qualidade dos serviços de TI, sempre com atendimento orientado à resolução de problemas e satisfação do cliente."
+        "isCurrent": false,
+        "location": "Curitiba, PR",
+        "summary": "Suporte de nível 1, manutenção de redes e capacitação de usuários em sistemas.",
+        "highlights": [
+          "Suporte técnico Nível 1 com foco em estabilidade e disponibilidade dos serviços de TI.",
+          "Cabeamento estruturado, configuração de redes locais e instalação de suporte à telefonia.",
+          "Montagem, diagnóstico e reparo de computadores e impressoras.",
+          "Treinamento e orientação a usuários para melhor aproveitamento das ferramentas do dia a dia."
+        ],
+        "techs": ["Redes", "Cabeamento Estruturado", "Suporte N1", "Treinamento de Usuários"]
       },
       {
         "company": "Copel Distribuição S.A.",
-        "title": "Análise de Sistemas (Estágio)",
+        "title": "Análise e Desenvolvimento de Sistemas (Estágio)",
         "years": "Jul 2022 - Jun 2024",
-        "description":  "Participei de um projeto para unificar a agência virtual (AVA), realizando modificações em componentes no front-end para melhorar a interface, como pode ser conferido no link: https://www.copel.com/avaweb/perfilEmpresarialGrpB.jsf. Também dei manutenção ao posto de atendimento virtual, auxiliando atendentes, ajustando botões e telas, além de criar filtros em formato cascata para otimizar o atendimento ao cliente: https://www.copel.com/paveweb/paginasAdm/inicio.jsf. Atuei no auxílio à análise e desenvolvimento de novas soluções, utilizando linguagens como Java e JavaScript, com banco de dados SQL Server, e ferramentas como Teams, GitHub e Cypress."
-      }
-    ],
-    "skills": [
-      {
-        "name": "JAVA",
-        "level": "50%"
-      },
-      {
-        "name": "React",
-        "level": "30%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "50%"
-      },
-      {
-        "name": "HTML",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "50%"
+        "isCurrent": false,
+        "location": "Curitiba, PR",
+        "summary": "Desenvolvimento e manutenção no projeto da Agência Virtual da Copel (AVA) e Posto de Atendimento Virtual (PAVE).",
+        "highlights": [
+          "Atuação direta no front-end da Agência Virtual da Copel (AVA), aprimorando interfaces com Java, JSF e JavaScript.",
+          "Manutenção no Posto de Atendimento Virtual (PAVE), criando filtros em formato cascata para otimizar o atendimento ao cliente.",
+          "Desenvolvimento e integração de soluções com banco de dados Microsoft SQL Server.",
+          "Criação e execução de testes automatizados de front-end utilizando Cypress.",
+          "Trabalho em equipe ágil com versionamento no GitHub e colaboração via Microsoft Teams."
+        ],
+        "techs": ["Java", "JSF", "JavaScript", "SQL Server", "Cypress", "Git / GitHub"],
+        "links": [
+          { "label": "Ver Agência Virtual Copel (AVA)", "url": "https://www.copel.com/avaweb/perfilEmpresarialGrpB.jsf" },
+          { "label": "Ver Posto de Atendimento (PAVE)", "url": "https://www.copel.com/paveweb/paginasAdm/inicio.jsf" }
+        ]
       }
     ]
   },
   "portfolio": {
+    "categories": ["Todos", "React / Front-end", "Aplicações & Outros"],
     "projects": [
       {
-        "title": "Calculadora",
-        "category": "Projetos",
-        "image": "calculadora.jpg",
-        "url": "https://calculadora-react-elton.vercel.app/"
+        "title": "Catálogo Premium",
+        "category": "React / Front-end",
+        "image": "catalogo.png",
+        "description": "Aplicação moderna em React para visualização e navegação por catálogo de produtos com filtros e layout responsivo.",
+        "tags": ["React", "JavaScript", "CSS3", "Vercel"],
+        "url": "https://catalogo-produtos-eta.vercel.app/",
+        "isFeatured": true
       },
       {
-        "title": "HTML 5",
-        "category": "Projetos",
+        "title": "Dashboard de Produtos",
+        "category": "React / Front-end",
+        "image": "dash.jpg",
+        "description": "Painel de controle intuitivo com métricas e gráficos interativos para gerenciamento e análise de produtos.",
+        "tags": ["React", "Dashboard", "Charts", "UI/UX"],
+        "url": "https://produtos-dashboard.vercel.app/",
+        "isFeatured": true
+      },
+      {
+        "title": "Fundamentos React & Hooks",
+        "category": "React / Front-end",
+        "image": "react.jpg",
+        "description": "Projeto prático focado na aplicação profunda dos conceitos fundamentais do React: useState, useEffect e manipulação de estado.",
+        "tags": ["React Hooks", "State Management", "SPA"],
+        "url": "https://hooks-wine.vercel.app/",
+        "isFeatured": false
+      },
+      {
+        "title": "Calculadora Interativa",
+        "category": "React / Front-end",
+        "image": "calculadora.png",
+        "description": "Calculadora desenvolvida com componentes React, lógica matemática precisa e interface moderna com feedback tátil.",
+        "tags": ["React", "JavaScript", "Componentes"],
+        "url": "https://calculadora-react-elton.vercel.app/",
+        "isFeatured": false
+      },
+      {
+        "title": "Página Semântica HTML5",
+        "category": "React / Front-end",
         "image": "html.jpg",
-        "url": "https://html5-curso-em-video.vercel.app/"
+        "description": "Projeto estruturado com foco em semântica web, acessibilidade e padrões modernos do HTML5 e CSS3.",
+        "tags": ["HTML5", "CSS3", "Acessibilidade"],
+        "url": "https://html5-curso-em-video.vercel.app/",
+        "isFeatured": false
       },
       {
-        "title": "Tarefa de Microcontrolado",
-        "category": "Projetos",
-        "image": "arduino.jpg",
-        "url": "https://youtu.be/AAnGGeOL5sM"
-      },
-      {
-        "title": "Fundamentos React",
-        "category": "Projetos",
-        "image": "react.png",
-        "url": "https://hooks-wine.vercel.app/"
+        "title": "Projeto com Microcontrolador",
+        "category": "Aplicações & Outros",
+        "image": "arduino.png",
+        "description": "Desenvolvimento e programação de microcontrolador integrando hardware e software, demonstrado em vídeo prático.",
+        "tags": ["Hardware", "C / C++", "Microcontroladores", "YouTube"],
+        "url": "https://youtu.be/AAnGGeOL5sM",
+        "isFeatured": false
       }
     ]
   }
