@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaArrowUp, FaLinkedin, FaGithub, FaWhatsapp } from "react-icons/fa";
+import AccordionIcon from "./AccordionIcon";
 
 function Footer({ data }) {
   const [showTopBtn, setShowTopBtn] = useState(false);
@@ -33,7 +34,9 @@ function Footer({ data }) {
     <footer className="footer">
       <div className="container footer-content">
         <div className="footer-logo">
-          <span className="logo-badge" style={{ display: "inline-flex", marginRight: "8px", verticalAlign: "middle" }}>EL</span>
+          <span className="logo-badge" style={{ display: "inline-flex", marginRight: "8px", verticalAlign: "middle" }} title="Sanfona / Acordeom">
+            <AccordionIcon size={20} color="#090d16" />
+          </span>
           <span>{name}</span>
         </div>
 
