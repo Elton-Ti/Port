@@ -154,7 +154,7 @@
         "company": "Grupo Barigui",
         "title": "Assistente de TI",
         "years": "Mai 2025 - Ago 2026",
-        "isCurrent": true,
+        "isCurrent": false,
         "location": "Curitiba / Região",
         "summary": "Suporte técnico a sistemas corporativos, plataformas de vendas/faturamento e gestão de infraestrutura de usuários.",
         "highlights": [
@@ -167,7 +167,7 @@
       },
       {
         "company": "Copel Distribuição S.A.",
-        "title": "Análise e Desenvolvimento de Sistemas (Estágio)",
+        "title": "Desenvolvedor Web (Estágio)",
         "years": "Jul 2022 - Jun 2024",
         "isCurrent": false,
         "location": "Curitiba, PR",
