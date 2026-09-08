@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaBars, FaTimes, FaDownload, FaWhatsapp, FaGithub, FaLinkedin, FaRocket } from "react-icons/fa";
+import AccordionIcon from "./AccordionIcon";
 
 function Header({ data }) {
   const [navScrolled, setNavScrolled] = useState(false);
@@ -69,7 +70,9 @@ function Header({ data }) {
       <nav className={`navbar ${navScrolled ? "scrolled" : ""}`}>
         <div className="nav-container">
           <a href="#home" className="nav-logo" onClick={(e) => handleNavClick(e, "home")}>
-            <span className="logo-badge">EL</span>
+            <span className="logo-badge" title="Sanfona / Acordeom">
+              <AccordionIcon size={22} color="#090d16" />
+            </span>
             <span>Elton<span className="gradient-text">.dev</span></span>
           </a>
 
