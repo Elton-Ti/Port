@@ -134,6 +134,23 @@
     ],
     "work": [
       {
+        "company": "Escriba",
+        "title": "Técnico de Atualização e Implementação",
+        "years": "Set 2026 - Atual",
+        "isCurrent": true,
+        "location": "Curitiba / Região",
+        "summary": "Suporte técnico a sistemas no ramo de Cartórios, plataformas de vendas/faturamento e gestão de infraestrutura de usuários.",
+        "highlights": [
+          "Instalação e Configuração: Implantação, instalação e configuração de sistemas e soluções de software destinados a cartórios, adequando as ferramentas às necessidades e processos de cada unidade.",
+          "Homologação e Testes: Execução de testes funcionais e validações em ambientes de homologação, verificando novas funcionalidades, atualizações e correções antes da disponibilização em produção",
+          "Atualização e Migração: Realização de atualizações de sistemas, versões e componentes, além de apoio em processos de migração e manutenção de bases de dados, garantindo a continuidade e integridade das informações.",
+          "Treinamento e Orientação aos Usuários: Capacitação e orientação de colaboradores de cartórios quanto à utilização dos sistemas, novas funcionalidades, procedimentos e mudanças decorrentes de atualizações.",
+          "Suporte Técnico Pós-Implementação: Atendimento e resolução de chamados relacionados aos sistemas cartorários, análise de incidentes, identificação de causas e encaminhamento de ocorrências mais complexas para as equipes responsáveis pelo desenvolvimento ou suporte especializado (N3).",
+          "Análise de Processos Cartorários: Apoio na identificação de necessidades dos usuários e na adequação das soluções de software aos processos e rotinas dos cartórios, contribuindo para a melhoria da operação e eficiência dos serviços."
+        ],
+        "techs": ["Software para Cartórios", "Implantação de Sistemas", "Suporte N2", "Homologação e Testes", "SQL", "Banco de Dados", "Migração de Dados", "Atualização de Sistemas", "Troubleshooting", "Treinamento de Usuários", "Sustentação de Sistemas", "Processos Cartorários"]
+      },
+      {
         "company": "Grupo Barigui",
         "title": "Assistente de TI",
         "years": "Mai 2025 - Ago 2026",
@@ -147,36 +164,6 @@
           "Acompanhamento de chamados e resolução de incidentes priorizando agilidade, segurança da informação e alta qualidade."
         ],
         "techs": ["Salesforce", "Fluig", "Active Directory", "Google Admin", "VPN", "Suporte N2"]
-      },
-      {
-        "company": "Hospital Inc",
-        "title": "Auxiliar-I TI",
-        "years": "Dez 2024 - Abr 2025",
-        "isCurrent": false,
-        "location": "Curitiba, PR",
-        "summary": "Suporte técnico hospitalar, gestão de chamados com foco na conformidade com Políticas de Segurança da Informação.",
-        "highlights": [
-          "Suporte técnico presencial, remoto e telefônico a usuários, atuando na resolução ágil de problemas operacionais.",
-          "Elaboração de manuais e documentações técnicas para padronização de procedimentos.",
-          "Gestão de chamados e garantia de cumprimento estrito das Políticas de Segurança da Informação.",
-          "Manutenção preventiva e corretiva de computadores, periféricos e impressoras, assegurando continuidade dos serviços de saúde."
-        ],
-        "techs": ["Segurança da Informação", "Helpdesk", "Manuais Técnicos", "Hardware & Redes"]
-      },
-      {
-        "company": "Eco Medical Center",
-        "title": "Técnico em TI (Estágio)",
-        "years": "Out 2024 - Dez 2024",
-        "isCurrent": false,
-        "location": "Curitiba, PR",
-        "summary": "Suporte de nível 1, manutenção de redes e capacitação de usuários em sistemas.",
-        "highlights": [
-          "Suporte técnico Nível 1 com foco em estabilidade e disponibilidade dos serviços de TI.",
-          "Cabeamento estruturado, configuração de redes locais e instalação de suporte à telefonia.",
-          "Montagem, diagnóstico e reparo de computadores e impressoras.",
-          "Treinamento e orientação a usuários para melhor aproveitamento das ferramentas do dia a dia."
-        ],
-        "techs": ["Redes", "Cabeamento Estruturado", "Suporte N1", "Treinamento de Usuários"]
       },
       {
         "company": "Copel Distribuição S.A.",
