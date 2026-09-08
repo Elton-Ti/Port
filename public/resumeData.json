@@ -147,7 +147,7 @@
           "Acompanhamento de chamados e resolução de incidentes priorizando agilidade, segurança da informação e alta qualidade."
         ],
         "techs": ["Salesforce", "Fluig", "Active Directory", "Google Admin", "VPN", "Suporte N2"]
-      },/*
+      },
       {
         "company": "Hospital Inc",
         "title": "Auxiliar-I TI",
@@ -177,7 +177,7 @@
           "Treinamento e orientação a usuários para melhor aproveitamento das ferramentas do dia a dia."
         ],
         "techs": ["Redes", "Cabeamento Estruturado", "Suporte N1", "Treinamento de Usuários"]
-      }, */
+      },
       {
         "company": "Copel Distribuição S.A.",
         "title": "Análise e Desenvolvimento de Sistemas (Estágio)",
